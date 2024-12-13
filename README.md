@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 🎉 I am a **web developer** passionate about bui
 ## 🌱 About Me:
 - 🚀 I am learning web development and constantly improving my skills.
 - 📚 I love sharing knowledge and working on interesting projects.
-- 🌎 I speak Russian and am learning English.
+- 🌎 My native language is Russian and I'm learning English.
 - 💡 My dream is to create applications that make people's lives better.
 
 ---
