@@ -1,4 +1,4 @@
-# Hi there! 👋 My name is Greg
+# Hi there! 👋 My name is Gregory
 
 Welcome to my GitHub profile! 🎉 I am a **web developer** passionate about building modern applications.
 
