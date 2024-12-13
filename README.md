@@ -6,8 +6,7 @@ Welcome to my GitHub profile! 🎉 I am a **web developer** passionate about bui
 
 ## 🛠️ My Skills and Technologies:
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, Vue.js
-- **Backend**: Node.js, Express.js, Nest.js, Firebase
-- **Tools**: Git, Webpack, Docker
+- **Tools**: Git, Node.js, Webpack, Docker
 
 ---
 
@@ -23,11 +22,6 @@ Welcome to my GitHub profile! 🎉 I am a **web developer** passionate about bui
 - **Email**: [greg.pereverzev@gmail.com](mailto:greg.pereverzev@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gregory-pereverzev-33848759/](https://linkedin.com/in/gregory-pereverzev-33848759/)
 - **Telegram**: [@Gashek762](https://t.me/Gashek762)
-
----
-
-## 📈 My GitHub Activity:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varlog762&show_icons=true&theme=radical)
 
 ---
 
