@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🎉 I am a **web developer** passionate about bui
 ---
 
 ## 🛠️ My Skills and Technologies:
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, Vue.js
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, NgRx, Vue.js, Pinia
 - **Tools**: Git, Node.js, Webpack, Docker
 
 ---
