@@ -20,7 +20,7 @@ Welcome to my GitHub profile! 🎉 I am a **web developer** passionate about bui
 
 ## 📫 How to Reach Me:
 - **Email**: [greg.pereverzev@gmail.com](mailto:greg.pereverzev@gmail.com)
-- **LinkedIn**: [linkedin.com/in/gregory-pereverzev-33848759/](https://linkedin.com/in/gregory-pereverzev-33848759/)
+- **LinkedIn**: [linkedin.com/in/ryhor-peraverzeu-33848759/](https://linkedin.com/in/ryhor-peraverzeu-33848759/)
 - **Telegram**: [@Gashek762](https://t.me/Gashek762)
 
 ---
